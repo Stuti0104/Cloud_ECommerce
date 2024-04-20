@@ -44,19 +44,6 @@ understanding of the following prerequisites:
 By having a good understanding of these prerequisites, students can create a successful e-commerce
 application using a microservices-based architecture, containerization, and automation.
 
-## Documentation:
-
-1. Docker documentation: https://docs.docker.com/
-2. Kubernetes documentation: https://kubernetes.io/docs/home/
-3. Jenkins documentation: https://www.jenkins.io/doc/
-4. Git documentation: https://git-scm.com/doc ; Git tutorial for beginners:
-    https://www.atlassian.com/git/tutorials
-5. Deploying microservices with Kubernetes: https://kubernetes.io/docs/tutorials/kubernetes-
-    basics/deploy-app/deploy-intro/
-6. Dockerizing a Node.js WebApp: https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
-7. REST API Design: https://restfulapi.net/
-8. Postman documentation for API testing etc: https://learning.postman.com/docs/
-
 ## Task Break-up:
 
 The following is a breakdown of the tasks involved in this project, along with the estimated time
