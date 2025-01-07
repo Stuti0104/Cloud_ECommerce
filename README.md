@@ -1,7 +1,3 @@
-# Cloud Computing Project - UE21CS351
-## Problem 6
-### Stuti Pathak | Syeda Saniya | Syed Munzer Nouman | Aditi K 
---- 
 # Building an E-commerce Microservices Application on Cloud using Docker, Kubernetes, Jenkins, and Git
 
 ## Overview:
@@ -19,31 +15,6 @@ for continuous integration and deployment, while Git will be used for version co
 - Implement a Jenkins pipeline to automate the deployment process.
 - Integrate Git with Jenkins to trigger the pipeline on code changes.
 
-## Pre-requisites:
-
-The choice of programming language depends on the students' preference and experience. However,
-some of the popular languages used for developing microservices-based applications are Java, Python,
-Node.js, and Go.
-
-Before starting the development of the e-commerce application, students should have a good
-understanding of the following prerequisites:
-
-1. Web development: Students should have a good understanding of HTML, CSS, and JavaScript
-    (NodeJS etc.)
-2. Microservices Architecture: They should be familiar with the concepts of service discovery,
-    load balancing, and API gateway.
-3. Containerization: Students should have a good understanding of containerization and how it is
-    used in modern application development. They should be familiar with tools like Docker and
-    Kubernetes.
-4. CI/CD: Students should have a good understanding of continuous integration and continuous
-    deployment (CI/CD) and how it is used to automate the deployment process. They should be
-    familiar with tools like Jenkins and Git.
-5. Database: They should be familiar with SQL and NoSQL databases.
-
-
-By having a good understanding of these prerequisites, students can create a successful e-commerce
-application using a microservices-based architecture, containerization, and automation.
-
 ## Task Break-up:
 
 The following is a breakdown of the tasks involved in this project, along with the estimated time
@@ -59,7 +30,7 @@ Deliverable: Microservices architecture document.
 
 ### Task 2: Develop Microservices
 
-- Develop the different microservices using appropriate programming languages and frameworks.
+- Develop the different microservices using appropriate programming languages and frameworks(ReactJS, NodeJS).
 - Implement REST APIs to allow communication between the microservices.
 - The app should contain different modules connected to a database to store data
 - For instance, a user page, product page and order page
@@ -105,49 +76,3 @@ Deliverable: Jenkins jobs and configuration files.
 - Create a Git repository for the microservices code.
 - Commit and push code changes to the Git repository.
 - Use Git to manage different versions and branches of the code.
-
-
-## Conclusion:
-
-This project will provide hands-on experience in building a microservices-based application using
-Docker containers and deploying it on a local Kubernetes cluster. It will also provide experience in
-setting up a CI/CD pipeline using Jenkins and Git, which are important skills in the cloud computing
-industry.
-
-###Week 1: Microservices Architecture Design and Development 
-
--Define microservices that will be part of the application.
-
--Determine communication protocols between microservices. 
-
--Plan data models and schemas for each microservice. 
-
--Develop microservices using appropriate programming languages and 
-frameworks.
-
--Implement REST APIs to allow communication between the microservices. 
-
--The app should contain different modules connected to a database to store 
-data
-
--For instance, a user page, product page and order page 
-    -User Management: This module handles the registration, 
-    authentication, and authorization of users. It allows users to create 
-    accounts, login, and manage their profiles. 
-
-    -Product Management: This module handles the management of 
-    products. It allows admins to add, edit, and delete products. It also 
-    allows users to view and search for products. 
-
-    -Order Management: This module handles the management of orders. It 
-    allows users to view their order history, track their orders, and manage 
-    their orders.
-
-Deliverables: 
-
--Microservices architecture document. 
-
--Codebase for implemented microservices with REST APIs.
-
-
-
